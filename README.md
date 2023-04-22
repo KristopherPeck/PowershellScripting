@@ -1,10 +1,10 @@
 By default any scripts will export to C:\Export\ if they have output worth exporting and software deployment scripts will save to an individual folder in C:\Export. Some may have console output that will show in the activity log in NinjaRMM. 
 
 # Active Directory
-- [Check Active Directory Password Expiration Date](CheckADPasswordExpirationDate.ps1)
-- [Get AD User Creation Dates](GetADUserCreationDates.ps1)
-- [Get AD Users and their Groups](GetADUsersWithGroups.ps1)
-- [Hide Disabled Users from the Global Address List](HideDisabledUserFromGlobalAddressList.ps1)
+- [Check Active Directory Password Expiration Date](Active Directory\CheckADPasswordExpirationDate.ps1)
+- [Get AD User Creation Dates](Active Directory\GetADUserCreationDates.ps1)
+- [Get AD Users and their Groups](Active Directory\GetADUsersWithGroups.ps1)
+- [Hide Disabled Users from the Global Address List](Active Directory\HideDisabledUserFromGlobalAddressList.ps1)
 
 # Diagnostics
 - [Check for Existing Thunderbolt Ports](CheckforThunderboltPorts.ps1)
