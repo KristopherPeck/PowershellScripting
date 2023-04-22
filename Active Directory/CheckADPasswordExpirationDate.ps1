@@ -1,5 +1,6 @@
 #Set the Path to where we want the exports to be stored.
 $path = "C:\Export\"
+Import-Module Activedirectory
 
 #Check if the folder exists and create it if it does not.
 If(!(test-path $path))
